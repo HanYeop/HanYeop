@@ -1,10 +1,9 @@
 ### Hi there 👋
+#### Hello! I'm Sangyeop Han! </br>
+I'm interested in Android development. I'm writing activities in tistory. </br>
+[Tistory](https://hanyeop.tistory.com/)
 
 <!--
-**HanYeop/HanYeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
