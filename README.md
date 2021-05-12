@@ -4,8 +4,8 @@ I'm interested in Android development. I'm writing in tistory. </br>
 [Tistory](https://hanyeop.tistory.com/)
 
 ### 💬 Language
-* Java
 * Kotlin
+* Java
 * C++
 <!--
 - 🔭 I’m currently working on ...
