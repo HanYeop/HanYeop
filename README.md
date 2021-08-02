@@ -24,7 +24,7 @@ I'm interested in Android development. I'm writing in tistory. </br>
 * Firebase
 * Kotlin
 
-## 💻 Project
+## 💻 Projects
 ### [RunnersHigh](https://github.com/HanYeop/RunnersHigh) (2021)
 * 달리기를 추적하여 기록하는 어플리케이션
 
