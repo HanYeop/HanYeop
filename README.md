@@ -18,6 +18,9 @@ I'm interested in Android development. I'm writing in tistory. </br>
 * [Algorithm](https://github.com/HanYeop/Algorithm)
   * 알고리즘 문제풀이 코드를 기록
 
+* [Jetpack-Compose](https://github.com/HanYeop/Jetpack-Compose)
+  * Jetpack Compose 에 대한 내용들을 기록
+
 ## 🤔 Interest
 * AAC / MVVM
 * Jetpack Compose
@@ -37,7 +40,7 @@ I'm interested in Android development. I'm writing in tistory. </br>
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2021/8/1
+#### 최종 수정일 : 2021/8/25
 
 <!--
 - 🔭 I’m currently working on ...
