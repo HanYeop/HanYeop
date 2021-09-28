@@ -28,6 +28,9 @@ I'm interested in Android development. I'm writing in tistory. </br>
 * Kotlin
 
 ## 💻 Projects
+### [HappySharing](https://github.com/HanYeop/Happy-Sharing) (2021)
+* 환경보호를 위한 무료나눔 플랫폼 앱
+
 ### [RunnersHigh](https://github.com/HanYeop/RunnersHigh) (2021)
 * 달리기를 추적하여 기록하는 어플리케이션
 
@@ -40,7 +43,7 @@ I'm interested in Android development. I'm writing in tistory. </br>
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2021/8/25
+#### 최종 수정일 : 2021/9/28
 
 <!--
 - 🔭 I’m currently working on ...
