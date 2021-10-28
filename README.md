@@ -8,6 +8,12 @@ I'm interested in Android development. I'm writing in tistory. </br>
 * Java
 * C++
 
+## 👨🏼‍🎓 Education
+* 전북대학교 컴퓨터공학부 재학
+  * 2016.03 ~ 
+* 군산동고등학교 졸업
+  * 2013.03 ~ 2016.02
+
 ## 🔭 Activities
 * [Android](https://github.com/HanYeop/AndroidStudio-Practice) , [Android2](https://github.com/HanYeop/AndroidStudio-Practice2)
   * 안드로이드에 대해 공부하고 새로 배운 내용들을 기록
@@ -43,7 +49,7 @@ I'm interested in Android development. I'm writing in tistory. </br>
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2021/9/28
+#### 최종 수정일 : 2021/10/28
 
 <!--
 - 🔭 I’m currently working on ...
