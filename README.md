@@ -1,6 +1,6 @@
 ## Hi there 👋
 #### Hello! I'm Sangyeop Han! </br>
-I'm interested in Android App development. I'm writing in tistory. </br>
+I'm interested in Android pp development. I'm writing in tistory. </br>
 
 
 #### 안녕하세요! 한상엽 입니다.
