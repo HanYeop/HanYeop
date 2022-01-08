@@ -15,8 +15,10 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 * C++
 
 ## 👨🏼‍🎓 Education
-### 전북대학교 컴퓨터공학부 재학
-  * 2016.03 ~ 
+### 삼성 청년 SW 아카데미 7기 모바일트랙 
+  * 2022.01 ~
+### 전북대학교 컴퓨터공학부 졸업(예정)
+  * 2016.03 ~ 2022.02 
 
 ### 군산동고등학교 졸업
   * 2013.03 ~ 2016.02
@@ -56,7 +58,7 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/01/04
+#### 최종 수정일 : 2022/01/08
 
 <!--
 - 🔭 I’m currently working on ...
