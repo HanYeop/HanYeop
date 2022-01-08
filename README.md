@@ -1,5 +1,5 @@
 ## Hello!! 👋
-#### Hello! I'm Sangyeop Han! </br>
+#### Hello!! I'm Sangyeop Han! </br>
 I'm interested in Android app development. I'm writing in tistory. </br>
 
 
@@ -58,7 +58,7 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/01/08
+#### 최종 수정일 : 2022/01/09
 
 <!--
 - 🔭 I’m currently working on ...
