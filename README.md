@@ -7,7 +7,7 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 안드로이드 앱 개발에 관심이 있습니다. 공부한 내용을 티스토리에 작성하고 있습니다. </br>
 [Tistory](https://hanyeop.tistory.com/)
 
-## 📚 STACKS
+## 📚 S
 <div>
   <img src="https://img.shields.io/badge/android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> 
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
@@ -16,7 +16,6 @@ I'm interested in Android app development. I'm writing in tistory. </br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   
   
 ## 🎓 Education
