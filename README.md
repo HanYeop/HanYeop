@@ -5,15 +5,15 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 
 #### 안녕하세요! 한상엽 입니다.
 안드로이드 앱 개발에 관심이 있습니다. 공부한 내용을 티스토리에 작성하고 있습니다. </br>
-
-
 [Tistory](https://hanyeop.tistory.com/)
 
-## 💬 Language
-* Kotlin
-* Java
-* C++
-
+## 📚 STACKS
+<div>
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  
 ## 🎓 Education
 ### 삼성 청년 SW 아카데미 7기 모바일트랙 
   * 2022.01 ~
@@ -58,7 +58,7 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/01/09
+#### 최종 수정일 : 2022/01/13
 
 <!--
 - 🔭 I’m currently working on ...
