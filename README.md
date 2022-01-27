@@ -16,7 +16,14 @@ I'm interested in Android app development. I'm writing in tistory. </br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  
+
+## ⏱ Experience
+<div>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=CSharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> 
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
   
 ## 🎓 Education
 ### 삼성 청년 SW 아카데미 7기 모바일트랙 
@@ -45,6 +52,7 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 * Jetpack Compose
 * Firebase
 * Kotlin
+* Java
 
 ## 💻 Projects
 ### [HappySharing](https://github.com/HanYeop/Happy-Sharing) (2021)
