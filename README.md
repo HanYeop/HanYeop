@@ -34,7 +34,7 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 * [Tistory](https://hanyeop.tistory.com/)
   * 새로 배운 지식들을 블로그에 기록
 
-* [Algorithm](https://github.com/HanYeop/Algorithm)
+* [Algorithm](https://github.com/HanYeop/Algorithm), [SWEA](https://github.com/HanYeop/SWEA)
   * 알고리즘 문제풀이 코드를 기록
 
 * [Jetpack-Compose](https://github.com/HanYeop/Jetpack-Compose)
@@ -62,7 +62,7 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/01/13
+#### 최종 수정일 : 2022/01/27
 
 <!--
 - 🔭 I’m currently working on ...
