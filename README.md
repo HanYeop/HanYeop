@@ -68,7 +68,7 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/01/27
+#### 최종 수정일 : 2022/02/08
 
 <!--
 - 🔭 I’m currently working on ...
