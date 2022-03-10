@@ -36,9 +36,6 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 ### 전북대학교 컴퓨터공학부 졸업
   * 2016.03 ~ 2022.02 
 
-### 군산동고등학교 졸업
-  * 2013.03 ~ 2016.02
-
 ## 🔭 Activities
 * [Android](https://github.com/HanYeop/AndroidStudio-Practice) , [Android2](https://github.com/HanYeop/AndroidStudio-Practice2)
   * 안드로이드에 대해 공부하고 새로 배운 내용들을 기록
