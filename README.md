@@ -9,7 +9,7 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 
 ## 📚 Tech Stacks
 <div>
-  <img src="https://img.shields.io/badge/android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> 
+  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
