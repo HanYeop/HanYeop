@@ -7,7 +7,8 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 안드로이드 앱 개발에 관심이 있습니다. 공부한 내용을 티스토리에 작성하고 있습니다. </br>
 [Tistory](https://hanyeop.tistory.com/)
 
-## 📚 Tech Stacks
+## 📚 Core Skills
+### 이 기술들을 주로 다루고 있어요 😀
 <div>
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
@@ -15,9 +16,9 @@ I'm interested in Android app development. I'm writing in tistory. </br>
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-## 🔨 Tech Experience
+## 🔨 Sub Skills
+### 이 기술들을 사용해봤어요 😅
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
@@ -57,8 +58,9 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 * Firebase
 * Kotlin
 * Java
+* Clean Architecture
 
-## 💻 Projects
+## 💻Toy Projects
 ### [HappySharing](https://github.com/HanYeop/Happy-Sharing) (2021)
 * 환경보호를 위한 무료나눔 플랫폼 앱
 
@@ -71,15 +73,4 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/04/07
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 최종 수정일 : 2022/04/17
