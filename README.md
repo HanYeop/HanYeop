@@ -20,12 +20,10 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 ## 🔨 Sub Skills
 ### 이 기술들을 사용해봤어요 😅
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
   <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=CSharp&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> 
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
