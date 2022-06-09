@@ -58,6 +58,9 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 * Clean Architecture
 
 ## 💻Toy Projects
+### [Memory-of-Music](https://github.com/HanYeop/Memory-of-Music-android-clean) (2022 ~ )
+  * Clean-Architecture 음악 기록 앱
+  
 ### [HappySharing](https://github.com/HanYeop/Happy-Sharing) (2021)
 * 환경보호를 위한 무료나눔 플랫폼 앱
 
@@ -70,4 +73,4 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/06/03
+#### 최종 수정일 : 2022/06/09
