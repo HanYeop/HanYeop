@@ -36,7 +36,7 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 ### 전북대학교 컴퓨터공학부 졸업
   * 2016.03 ~ 2022.02 
 
-## 🔭 Activities
+## 📝 Activities
 * [Android](https://github.com/HanYeop/AndroidStudio-Practice) , [Android2](https://github.com/HanYeop/AndroidStudio-Practice2)
   * 안드로이드에 대해 공부하고 새로 배운 내용들을 기록
 
@@ -57,9 +57,12 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 * Java
 * Clean Architecture
 
-## 💻Toy Projects
+## 💻 Toy Projects
 ### [Memory-of-Music](https://github.com/HanYeop/Memory-of-Music-android-clean) (2022 ~ )
-  * Clean-Architecture 음악 기록 앱
+  * Clean-Architecture 음악 기록 앱 (진행중)
+  
+### [SSAFY-BUCKS](https://github.com/HanYeop/SSAFY-BUCKS) (2022)
+  * O2O 기반 스마트 스토어 시스템
   
 ### [HappySharing](https://github.com/HanYeop/Happy-Sharing) (2021)
 * 환경보호를 위한 무료나눔 플랫폼 앱
@@ -73,4 +76,4 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/06/09
+#### 최종 수정일 : 2022/06/13
