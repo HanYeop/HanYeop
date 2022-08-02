@@ -2,7 +2,7 @@
 #### Hello!! I'm Sangyeop Han! </br>
 
 #### 안녕하세요! 한상엽 입니다.
-안드로이드 앱 개발에 관심이 있습니다. 공부한 내용을 [티스토리](https://hanyeop.tistory.com/)에 작성하고 있습니다. </br>
+안드로이드 앱 개발에 관심이 많습니다. 공부한 내용을 [티스토리](https://hanyeop.tistory.com/)에 작성하고 있습니다. </br>
 항상 새로운 기술을 공부하고 적용하기 위해 노력합니다 😁
 
 ## 📚 Core Skills
