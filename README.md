@@ -1,11 +1,9 @@
 ## Hello!! 👋
 #### Hello!! I'm Sangyeop Han! </br>
-I'm interested in Android app development. I'm writing in tistory. </br>
-
 
 #### 안녕하세요! 한상엽 입니다.
 안드로이드 앱 개발에 관심이 있습니다. 공부한 내용을 [티스토리](https://hanyeop.tistory.com/)에 작성하고 있습니다. </br>
-[Tistory](https://hanyeop.tistory.com/)
+항상 새로운 기술을 공부하고 적용하기 위해 노력합니다 😁
 
 ## 📚 Core Skills
 ### 이 기술들을 주로 다루고 있어요 😀
@@ -77,4 +75,4 @@ I'm interested in Android app development. I'm writing in tistory. </br>
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/07/12
+#### 최종 수정일 : 2022/08/02
