@@ -51,10 +51,10 @@
 ## 🤔 Interest
 * AAC / MVVM
 * Jetpack Compose
-* Firebase
 * Kotlin
-* Java
 * Clean Architecture
+* MVI
+* TestCode
 
 ## 💻 Toy Projects
 ### [Memory-of-Music](https://github.com/HanYeop/Memory-of-Music-android-clean) (2022 ~ )
@@ -76,4 +76,4 @@
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/08/02
+#### 최종 수정일 : 2022/08/27
