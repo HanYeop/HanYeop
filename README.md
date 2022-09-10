@@ -58,6 +58,11 @@
 * TestCode
 
 ## 💻 Toy Projects
+
+### [RunWithMe](https://github.com/HanYeop/RunWithMe) (2022)
+  * 비대면 러닝 챌린지 앱
+  * SSAFY 7기 공통프로젝트 우수상(1등)
+  
 ### [Memory-of-Music](https://github.com/HanYeop/Memory-of-Music-android-clean) (2022 ~ )
   * Clean-Architecture 음악 기록 앱
   * [플레이스토어 다운로드 링크](https://play.google.com/store/apps/details?id=com.hanyeop.mom)
@@ -69,7 +74,7 @@
 * 환경보호를 위한 무료나눔 플랫폼 앱
 
 ### [RunnersHigh](https://github.com/HanYeop/RunnersHigh) (2021)
-* 달리기를 추적하여 기록하는 어플리케이션
+* 달리기 추적 기록 앱
 
 ### [TodoneList](https://github.com/HanYeop/TodoneList) (2021)
 * MVVM 패턴으로 구현한 Todo, Done List 
@@ -77,4 +82,4 @@
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/08/30
+#### 최종 수정일 : 2022/09/10
