@@ -61,7 +61,7 @@
 
 ### [SongForYou](https://github.com/HanYeop/SongForYou) (2022)
   * 부르기 좋은 노래 추천 앱
-  * SSAFY 7기 특화프로젝트 우수상
+  * SSAFY 7기 특화프로젝트 우수상(1등)
 
 ### [RunWithMe](https://github.com/HanYeop/RunWithMe) (2022)
   * 비대면 러닝 챌린지 앱
@@ -86,4 +86,4 @@
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/10/18
+#### 최종 수정일 : 2022/10/19
