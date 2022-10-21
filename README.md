@@ -13,22 +13,6 @@
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-
-## 🔨 Sub Skills
-### 이 기술들을 사용해봤어요 😅
-<div>
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=CSharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> 
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=VUE.JS&logoColor=white">
-  <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white">
   
 ## 🎓 Education
 ### 삼성 청년 SW 아카데미 7기 모바일트랙 
@@ -86,4 +70,4 @@
 ### [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/10/19
+#### 최종 수정일 : 2022/10/21
