@@ -51,7 +51,7 @@
   * 비대면 러닝 챌린지 앱
   * SSAFY 7기 공통프로젝트 우수상(1등)
   
-### [Memory-of-Music](https://github.com/HanYeop/Memory-of-Music-android-clean) (2022 ~ )
+### [Memory-of-Music](https://github.com/HanYeop/Memory-of-Music-android-clean) (2022.06 ~ )
   * Clean-Architecture 음악 기록 앱
   * [플레이스토어 다운로드 링크](https://play.google.com/store/apps/details?id=com.hanyeop.mom)
   
