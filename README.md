@@ -43,7 +43,7 @@
 * [Tistory](https://hanyeop.tistory.com/)
   * 새로 배운 지식들을 블로그에 기록
 
-* [Algorithm](https://github.com/HanYeop/Algorithm), [SWEA](https://github.com/HanYeop/SWEA)
+* [Algorithm](https://github.com/HanYeop/Algorithm), [Algorithm2]https://github.com/HanYeop/Algorithm2, [SWEA](https://github.com/HanYeop/SWEA)
   * 알고리즘 문제풀이 코드를 기록
 
 * [Jetpack-Compose](https://github.com/HanYeop/Jetpack-Compose)
@@ -86,4 +86,4 @@
 ### 📱 [Stagram](https://github.com/HanYeop/Stagram) (2020)
 * Instagram Clone
 
-#### 최종 수정일 : 2022/10/21
+#### 최종 수정일 : 2022/10/28
