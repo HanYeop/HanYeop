@@ -7,12 +7,14 @@
 💁‍♂️ [**포트폴리오**](https://sweltering-enthusiasm-d6a.notion.site/cc5a5bf472bd40e99bc659de25e72d35)
 📝 [**블로그**](https://hanyeop.tistory.com/)
 
+## 📚 Tech Stack
+
 <div>
-  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"> 
+  <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white"> 
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"> 
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white"> 
 </div>
 
 ## 💻 Toy Projects
