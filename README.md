@@ -14,3 +14,6 @@
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white"> 
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhskdlwu)](https://solved.ac/dhskdlwu/)
+
