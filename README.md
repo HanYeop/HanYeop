@@ -3,9 +3,12 @@ I'm an Android Developer working in Korea. </br>
 Contact : super7615@naver.com
 
 ## ✨ Career & Education
-- Naver Works Mobile Android Dev Intern (2022. 12 ~ 2023. 02)
-- Samsung Software Academy for Youth 7th Mobile Track (2022. 01 ~ 2022. 12)
+- Naver Works Mobile (2022. 12 ~ 2023. 02)
+  - Android Dev Intern
+- Samsung Software Academy for Youth (2022. 01 ~ 2022. 12)
+  - 7th Mobile Track  
 - Jeonbuk National University (2016. 03 ~ 2022. 02)
+  - Computer Science and Engineering
 
 ## 🤔 Interested in
 - Android Development
