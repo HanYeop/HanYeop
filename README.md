@@ -19,10 +19,10 @@ Contact : super7615@naver.com
 
 ## 🛠️ Skills
 <div>
-  <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white"> 
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"> 
-  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white"> 
 </div>
 
