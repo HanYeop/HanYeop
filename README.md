@@ -1,5 +1,5 @@
-## 👋 Hello!!  I'm Sangyeop Han!
-I'm an Android Developer working in Korea. </br>
+## 👋 Hello!!  I'm Sangyeop Han
+All experiences are valuable experiences! </br>
 Contact : super7615@naver.com
 
 ## ✨ Career & Education
