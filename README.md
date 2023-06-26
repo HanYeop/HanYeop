@@ -3,6 +3,8 @@ All experiences are valuable experiences! </br>
 Contact : super7615@naver.com
 
 ## ✨ Career & Education
+- Hanwha Systems/ICT (2023. 06 ~ )
+  - Software Engineer
 - Naver Works Mobile (2022. 12 ~ 2023. 02)
   - Android Dev Intern
 - Samsung Software Academy for Youth (2022. 01 ~ 2022. 12)
@@ -12,10 +14,12 @@ Contact : super7615@naver.com
 
 ## 🤔 Interested in
 - Android Development
-- Jetpack Compose  
+  - Jetpack Compose
+  - Architecture
+- Spring
 - Kotlin
 - Java
-- UI/UX
+- Algorithm
 
 ## 🛠️ Skills
 <div>
