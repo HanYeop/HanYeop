@@ -16,7 +16,7 @@ Contact : super7615@naver.com
 - Android Development
   - Jetpack Compose
   - Architecture
-- Spring
+- Flutter
 - Kotlin
 - Java
 - Algorithm
