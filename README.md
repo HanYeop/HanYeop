@@ -16,7 +16,6 @@ Contact : super7615@naver.com
 - Android Development
 - Kotlin
 - Java
-- Algorithm
 
 ## 🛠️ Skills
 <div>
@@ -29,7 +28,4 @@ Contact : super7615@naver.com
 ## 💭 About me
 💁‍♂️ [**Portfolio**](https://sweltering-enthusiasm-d6a.notion.site/cc5a5bf472bd40e99bc659de25e72d35)
 📝 [**Blog**](https://hanyeop.tistory.com/)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhskdlwu)](https://solved.ac/dhskdlwu/)
-
 
